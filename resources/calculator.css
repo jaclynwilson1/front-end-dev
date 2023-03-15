@@ -17,3 +17,9 @@ button {
     border-radius: 25px;
     background-color: mediumvioletred;
 }
+
+input{
+    width: 370px;
+    height: 50px;
+    font-size: 40px;
+}
