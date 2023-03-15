@@ -1,0 +1,19 @@
+* {
+    font-family: Courier New;
+    color: mediumvioletred;
+    text-align: center;
+
+}
+h1 {
+    color: gray;
+}
+
+button {
+    color:white;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    font-size: 50px;
+    border-radius: 25px;
+    background-color: mediumvioletred;
+}
