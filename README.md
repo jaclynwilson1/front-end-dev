@@ -21,3 +21,7 @@ Calculator is a calculator user interface.
 
 ### Wordle
 Still being developed
+
+### Future
+- React
+- PyScript

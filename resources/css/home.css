@@ -10,7 +10,7 @@ h1{
 button{
     width:200px;
     height: 100px;
-    font-size: 50px;
+    font-size: 30px;
     color: white;
     background-color: rgb(1, 109, 100);
 }
@@ -18,8 +18,20 @@ button{
 .button-link{
     width: 200px;
     height:100px;
-    font-size: 50px;
+    font-size: 30px;
     color: white;
     background-color: rgb(1, 109, 100);
     padding: 10px;
+    border-radius: 50px;
+}
+
+p{
+    padding-top: 50px;
+    text-align: justify;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+img{
+    border-radius: 50px;
 }
