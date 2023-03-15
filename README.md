@@ -11,3 +11,13 @@
 
 ### Calculator
 Calculator is a calculator user interface.
+3-15-2023
+- +,-,*,/ operations
+- decimal values included
+- clear funcitonality
+##### Future Versions
+- log, ln, sqrt, ^, etc
+- sigfigs
+
+### Wordle
+Still being developed
